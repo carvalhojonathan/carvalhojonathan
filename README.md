@@ -1,5 +1,5 @@
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=?i=py,pycharm,vscode,git,github,html,css)](https://skillicons.dev)
 
 <!--
 **carvalhojonathan/carvalhojonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
