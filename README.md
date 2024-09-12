@@ -2,8 +2,8 @@
 
 ###
 
-<h5 align="left">Desenvolvedor de Sistemas em formação.<br>
-Tenho me dedicado ao estudo de lógica de programação, Python, Django, banco de dados, versionamento de software e APIs.</h5>
+<p align="left">Desenvolvedor de Sistemas em formação.<br>
+Tenho me dedicado ao estudo de lógica de programação, Python, Django, banco de dados, versionamento de software e APIs.</p>
 
 ###
 
